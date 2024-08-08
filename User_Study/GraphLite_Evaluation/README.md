@@ -15,6 +15,23 @@ For the study, we built a separate all-in-one Android app supporting all the stu
 
 The experimenter first obtained the participant’s formal consent before briefly explaining the study’s goals. The experimenter then introduced the TBL and GraphLite interfaces to the participant, and conducted a practice session of about 30 minutes to help the participant get comfortable using the TBL and GraphLite interfaces. After the practice session, the experimenter asked the participant to complete the study tasks in the corresponding predetermined counterbalanced order. The experimenter allotted 10 minutes for the participant to complete each task. After each task (and thereby condition), the experimenter administered the System Usability Scale (SUS) and NASA Task Load Index (NASA-TLX) [33] subjective questionnaires to capture the participant’s perceived usability and interaction workload in that condition. Throughout the study, the experimenter took notes to capture any peculiar user interaction behaviors while doing the tasks. At the end of the study, the experimenter engaged in an open-ended conversation with the participant to collect subjective feedback, including feature requests and improvement ideas. With the participant’s consent, all study activities and data (including screen-capturing) were recorded for later analysis. The participants  were compensated with an Amazon gift card, and all conversations were in English.
 
+### 3.1 Task and Session Distribution
+
+In our study, three sessions were available daily from Monday to Friday over four weeks, with each session lasting between 2 to 2.5 hours. Two experimenters were available per session to accommodate one participant each. Participants had the flexibility to choose any of these sessions to attend. Overall, each participant was required to complete 5 conditions with 6 tasks (4 subtasks + 2 tasks), totaling 300 minutes (5 hours), plus an additional 150 minutes for the remaining study components, resulting in a total of 450 minutes (7.5 hours). With 26 participants in the study, we clarify each participant was required to attend multiple sessions to complete the study. Specifically, each participant attended three sessions, totaling 7.5 hours. For example, Participant 1 attended Session 1 on Monday of Week 1, Session 2 on Tuesday of Week 2, and Session 1 on Monday of Week 3. Note that the slowest participant took 4.43 hours to complete just the tasks, which allowed for an additional approximate 3 hours for breaks and other study components. In the first session, participants completed two subtasks involving pairwise comparison. In the second session, they performed two subtasks focused on selective filtering. During the third session, participants engaged in tasks related to line charts, specifically trend prediction and comparison. After each subtask, participants filled out the SUS and NASA-TLX questionnaires to assess their perceptions of usability and workload. Additionally, the experimenter observed user interaction behaviors and collected feedback during exit interviews.
+
+The time allotment was as follows:
+•⁠  ⁠Task 1: Pairwise Comparison 
+  - First Subtask : SBC (10 minutes)
+  - Second Subtask : MBC (10 minutes)
+•⁠  ⁠Task 2: Selective Filtering 
+  - First Subtask : SBF (10 minutes)
+  - Second Subtask : MBF (10 minutes)
+•⁠  ⁠Task 3: LTP (10 minutes)
+•⁠  ⁠Task 4: LTC (10 minutes)
+
+
+
+
 ### Table : EVALUATION USER STUDY PARTICIPANT DEMOGRAPHICS
 
 Note : All information was self-reported

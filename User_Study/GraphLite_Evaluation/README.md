@@ -17,16 +17,20 @@ The experimenter first obtained the participant’s formal consent before briefl
 
 ### 3.1 Task and Session Distribution
 
-In our study, three sessions were available daily from Monday to Friday over four weeks, with each session lasting between 2 to 2.5 hours. Two experimenters were available per session to accommodate one participant each. Participants had the flexibility to choose any of these sessions to attend. Overall, each participant was required to complete 5 conditions with 6 tasks (4 subtasks + 2 tasks), totaling 300 minutes (5 hours), plus an additional 150 minutes for the remaining study components, resulting in a total of 450 minutes (7.5 hours). With 26 participants in the study, we clarify each participant was required to attend multiple sessions to complete the study. Specifically, each participant attended three sessions, totaling 7.5 hours. For example, Participant 1 attended Session 1 on Monday of Week 1, Session 2 on Tuesday of Week 2, and Session 1 on Monday of Week 3. Note that the slowest participant took 4.43 hours to complete just the tasks, which allowed for an additional approximate 3 hours for breaks and other study components. In the first session, participants completed two subtasks involving pairwise comparison. In the second session, they performed two subtasks focused on selective filtering. During the third session, participants engaged in tasks related to line charts, specifically trend prediction and comparison. After each subtask, participants filled out the SUS and NASA-TLX questionnaires to assess their perceptions of usability and workload. Additionally, the experimenter observed user interaction behaviors and collected feedback during exit interviews.
+In our study, three sessions were available daily from Monday to Friday over four weeks, with each session lasting between 2 to 2.5 hours. Two experimenters were available per session to accommodate one participant each. Participants had the flexibility to choose any of these sessions to attend. Overall, each participant was required to complete 5 conditions with 6 tasks (4 subtasks + 2 tasks), totaling 300 minutes (5 hours), plus an additional 150 minutes for the remaining study components, resulting in a total of 450 minutes (7.5 hours). With 26 participants in the study, each participant was required to attend multiple sessions to complete the study. Specifically, each participant attended three sessions, totaling 7.5 hours. For example, Participant 1 attended Session 1 on Monday of Week 1, Session 2 on Tuesday of Week 2, and Session 1 on Monday of Week 3. Note that the slowest participant took 4.43 hours to complete just the tasks, which allowed for an additional approximate 3 hours for breaks and other study components. In the first session, participants completed two subtasks involving pairwise comparison. In the second session, they performed two subtasks focused on selective filtering. During the third session, participants engaged in tasks related to line charts, specifically trend prediction and comparison. After each subtask (10 minutes under each condition), participants filled out the SUS and NASA-TLX questionnaires to assess their perceptions of usability and workload. Additionally, the experimenter observed user interaction behaviors and collected feedback during exit interviews.
 
 The time allotment was as follows:
+
 •⁠  ⁠Task 1: Pairwise Comparison 
   - First Subtask : SBC (10 minutes)
   - Second Subtask : MBC (10 minutes)
+
 •⁠  ⁠Task 2: Selective Filtering 
   - First Subtask : SBF (10 minutes)
   - Second Subtask : MBF (10 minutes)
+  
 •⁠  ⁠Task 3: LTP (10 minutes)
+
 •⁠  ⁠Task 4: LTC (10 minutes)
 
 

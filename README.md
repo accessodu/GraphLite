@@ -1,10 +1,11 @@
 # Towards Enhancing Low Vision Usability of Data Charts on Smartphones
 
-## [GraphLite Demo (Video)](https://youtu.be/QFw5QH7FwNY) :
+
 [![IMAGE ALT TEXT HERE](Images/GraphLite.png)](https://youtu.be/QFw5QH7FwNY)
 
-
-
+## [GraphLite Demo (Video)](https://youtu.be/QFw5QH7FwNY) :
+## [Task Demo (Video)](https://youtu.be/okPFaUBSUnE) :
+## [Practical Demo (Video)](https://youtube.com/shorts/ZmOi3AL4JpY?feature=share) :
 
 ## Recommended 
 ----
